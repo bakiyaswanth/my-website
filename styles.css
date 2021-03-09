@@ -200,7 +200,14 @@ header .logo
 {
   color: #03a9f4; 
 }
-
+.text p
+{
+  font-size: 1.1em;
+  color: #fff;
+  margin: 20px 0;
+  font-weight: 400;
+  max-width: 700px;
+}
 @media (max-width: 991px)
 {
   .showcase,
